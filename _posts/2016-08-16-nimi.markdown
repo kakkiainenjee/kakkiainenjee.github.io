@@ -1,0 +1,7 @@
+---
+published: true
+title: nimi
+layout: post
+permalink: jepjep
+---
+moi kaikki kakkiaiset
